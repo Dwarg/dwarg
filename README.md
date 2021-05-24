@@ -1,5 +1,3 @@
-![](https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
 ### Hello there 👋
 
 [![Dwarg's github stats](https://github-readme-stats.vercel.app/api?username=Dwarg&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Dwarg?tab=repositories) 
